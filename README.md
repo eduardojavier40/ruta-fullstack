@@ -76,10 +76,10 @@ Cada subcarpeta de tema lleva los ejercicios sueltos que hagas de ese tema; cada
 ## 🗺️ Checklist de la ruta
 
 ### Fase 00 · Fundamentos — `00-fundamentos/`
-- [ ] Cómo funciona la web: HTTP, cliente-servidor, DNS
-- [ ] Terminal básica: navegación, archivos, permisos
-- [ ] Git: init, add, commit, branch, merge, push, pull
-- [ ] Flujo de Pull Request en GitHub
+- [X] Cómo funciona la web: HTTP, cliente-servidor, DNS
+- [X] Terminal básica: navegación, archivos, permisos
+- [X] Git: init, add, commit, branch, merge, push, pull
+- [X] Flujo de Pull Request en GitHub
 - [ ] Variables, tipos de datos, operadores
 - [ ] Condicionales y bucles
 - [ ] Funciones y estructuras de datos (arrays, objetos)
